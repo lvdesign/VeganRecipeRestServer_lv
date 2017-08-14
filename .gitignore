@@ -1,0 +1,10 @@
+# compiled output
+/dist
+/public
+
+# dependencies
+/node_modules
+
+# bitbucket
+bitbucket-pipelines.yml
+
